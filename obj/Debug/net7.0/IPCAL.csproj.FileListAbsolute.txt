@@ -1,0 +1,15 @@
+G:\C#\tmp\IPCAL\test\IPCAL\bin\Debug\net7.0\IPCAL.exe
+G:\C#\tmp\IPCAL\test\IPCAL\bin\Debug\net7.0\IPCAL.deps.json
+G:\C#\tmp\IPCAL\test\IPCAL\bin\Debug\net7.0\IPCAL.runtimeconfig.json
+G:\C#\tmp\IPCAL\test\IPCAL\bin\Debug\net7.0\IPCAL.dll
+G:\C#\tmp\IPCAL\test\IPCAL\bin\Debug\net7.0\IPCAL.pdb
+G:\C#\tmp\IPCAL\test\IPCAL\obj\Debug\net7.0\IPCAL.csproj.AssemblyReference.cache
+G:\C#\tmp\IPCAL\test\IPCAL\obj\Debug\net7.0\IPCAL.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#\tmp\IPCAL\test\IPCAL\obj\Debug\net7.0\IPCAL.AssemblyInfoInputs.cache
+G:\C#\tmp\IPCAL\test\IPCAL\obj\Debug\net7.0\IPCAL.AssemblyInfo.cs
+G:\C#\tmp\IPCAL\test\IPCAL\obj\Debug\net7.0\IPCAL.csproj.CoreCompileInputs.cache
+G:\C#\tmp\IPCAL\test\IPCAL\obj\Debug\net7.0\IPCAL.dll
+G:\C#\tmp\IPCAL\test\IPCAL\obj\Debug\net7.0\refint\IPCAL.dll
+G:\C#\tmp\IPCAL\test\IPCAL\obj\Debug\net7.0\IPCAL.pdb
+G:\C#\tmp\IPCAL\test\IPCAL\obj\Debug\net7.0\IPCAL.genruntimeconfig.cache
+G:\C#\tmp\IPCAL\test\IPCAL\obj\Debug\net7.0\ref\IPCAL.dll
