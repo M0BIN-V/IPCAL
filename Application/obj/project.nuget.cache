@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8BmteNI9nwAFBQ1k7fKrpJ+dr0aSurqBF48DxTtnWVmNOrcSCfA0zM78ou/3llXpv1NrM+jrvq/1gVrqeG3IOA==",
+  "dgSpecHash": "28ifNYpICnizpO03bzNvROP852daLYE59evikzF9b/g/NCDBaSS1QpEmyN8Hr2+HTOu1RpHpL0ojoLeDpaq6PQ==",
   "success": true,
-  "projectFilePath": "G:\\C#\\IPCAL\\ipcal\\Application\\application.csproj",
+  "projectFilePath": "G:\\C#\\IPCAL\\IPCAL\\Application\\application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
