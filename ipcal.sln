@@ -11,8 +11,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertUtilities", "Utiliti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExportUtilities", "Utilities\ExportUtilities\ExportUtilities.csproj", "{C2146A1D-CE2E-4947-BAD1-E57AA748725F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetworkUtilities", "Utilities\NetworkUtilities\NetworkUtilities.csproj", "{31F81187-6796-4FEE-A760-1C5514D62401}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -34,14 +32,9 @@ Global
 		{C2146A1D-CE2E-4947-BAD1-E57AA748725F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C2146A1D-CE2E-4947-BAD1-E57AA748725F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C2146A1D-CE2E-4947-BAD1-E57AA748725F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{31F81187-6796-4FEE-A760-1C5514D62401}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{31F81187-6796-4FEE-A760-1C5514D62401}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{31F81187-6796-4FEE-A760-1C5514D62401}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{31F81187-6796-4FEE-A760-1C5514D62401}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{580FEE77-08B6-4D95-AEC5-BB8F7E904481} = {944482E9-043E-45D8-BB3D-9BC6F79BB5AA}
 		{C2146A1D-CE2E-4947-BAD1-E57AA748725F} = {944482E9-043E-45D8-BB3D-9BC6F79BB5AA}
-		{31F81187-6796-4FEE-A760-1C5514D62401} = {944482E9-043E-45D8-BB3D-9BC6F79BB5AA}
 	EndGlobalSection
 EndGlobal

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\C#\\IPCAL\\ipcal\\Utilities\\NetworkUtilities\\NetworkUtilities.csproj",
-      "projectName": "NetworkUtilities",
-      "projectPath": "G:\\C#\\IPCAL\\ipcal\\Utilities\\NetworkUtilities\\NetworkUtilities.csproj",
+      "projectUniqueName": "G:\\C#\\IPCAL\\ipcal\\Utilities\\Utilities.csproj",
+      "projectName": "Utilities",
+      "projectPath": "G:\\C#\\IPCAL\\ipcal\\Utilities\\Utilities.csproj",
       "packagesPath": "C:\\Users\\MOBIN\\.nuget\\packages\\",
-      "outputPath": "G:\\C#\\IPCAL\\ipcal\\Utilities\\NetworkUtilities\\obj\\",
+      "outputPath": "G:\\C#\\IPCAL\\ipcal\\Utilities\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MOBIN\\AppData\\Roaming\\NuGet\\NuGet.Config"
