@@ -1,0 +1,12 @@
+G:\C#\IPCAL\ipcal\Utilities\ExportUtilities\bin\Debug\net7.0\ExportUtilities.deps.json
+G:\C#\IPCAL\ipcal\Utilities\ExportUtilities\bin\Debug\net7.0\ExportUtilities.dll
+G:\C#\IPCAL\ipcal\Utilities\ExportUtilities\bin\Debug\net7.0\ExportUtilities.pdb
+G:\C#\IPCAL\ipcal\Utilities\ExportUtilities\obj\Debug\net7.0\ExportUtilities.csproj.AssemblyReference.cache
+G:\C#\IPCAL\ipcal\Utilities\ExportUtilities\obj\Debug\net7.0\ExportUtilities.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#\IPCAL\ipcal\Utilities\ExportUtilities\obj\Debug\net7.0\ExportUtilities.AssemblyInfoInputs.cache
+G:\C#\IPCAL\ipcal\Utilities\ExportUtilities\obj\Debug\net7.0\ExportUtilities.AssemblyInfo.cs
+G:\C#\IPCAL\ipcal\Utilities\ExportUtilities\obj\Debug\net7.0\ExportUtilities.csproj.CoreCompileInputs.cache
+G:\C#\IPCAL\ipcal\Utilities\ExportUtilities\obj\Debug\net7.0\ExportUtilities.dll
+G:\C#\IPCAL\ipcal\Utilities\ExportUtilities\obj\Debug\net7.0\refint\ExportUtilities.dll
+G:\C#\IPCAL\ipcal\Utilities\ExportUtilities\obj\Debug\net7.0\ExportUtilities.pdb
+G:\C#\IPCAL\ipcal\Utilities\ExportUtilities\obj\Debug\net7.0\ref\ExportUtilities.dll
