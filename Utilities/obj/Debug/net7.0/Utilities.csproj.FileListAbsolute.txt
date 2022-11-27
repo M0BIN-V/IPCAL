@@ -1,0 +1,12 @@
+G:\C#\IPCAL\ipcal\Utilities\bin\Debug\net7.0\Utilities.deps.json
+G:\C#\IPCAL\ipcal\Utilities\bin\Debug\net7.0\Utilities.dll
+G:\C#\IPCAL\ipcal\Utilities\bin\Debug\net7.0\Utilities.pdb
+G:\C#\IPCAL\ipcal\Utilities\obj\Debug\net7.0\Utilities.csproj.AssemblyReference.cache
+G:\C#\IPCAL\ipcal\Utilities\obj\Debug\net7.0\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#\IPCAL\ipcal\Utilities\obj\Debug\net7.0\Utilities.AssemblyInfoInputs.cache
+G:\C#\IPCAL\ipcal\Utilities\obj\Debug\net7.0\Utilities.AssemblyInfo.cs
+G:\C#\IPCAL\ipcal\Utilities\obj\Debug\net7.0\Utilities.csproj.CoreCompileInputs.cache
+G:\C#\IPCAL\ipcal\Utilities\obj\Debug\net7.0\Utilities.dll
+G:\C#\IPCAL\ipcal\Utilities\obj\Debug\net7.0\refint\Utilities.dll
+G:\C#\IPCAL\ipcal\Utilities\obj\Debug\net7.0\Utilities.pdb
+G:\C#\IPCAL\ipcal\Utilities\obj\Debug\net7.0\ref\Utilities.dll
